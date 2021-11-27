@@ -1,0 +1,26 @@
+﻿variable,coef,se,coef_filtered,se_filtered
+Small,,,0,0.01
+Dilapidated,,,,
+Ground floor,,,,
+Separate doors,,,-0.004,0.006
+Nearby Party Office,,,0.017,0.009
+Water,,,,
+Electricity,,,-0.018,0.011
+Lighting,,,0.004,0.01
+Toilet,,,,
+Ramps,,,0.087,0.011
+Furniture,,,0.028,0.013
+Shelter and/or shade,,,-0.013,0.007
+Road,,,,
+Natural obstacles,,,,
+Landline or Fax,,,-0.026,0.007
+Mobile,,,0.004,0.007
+Internet,,,0.01,0.007
+Signage,,,,
+LWE or Insurgency,,,,
+Forest,,,,
+Vulnerable,,,,
+Sensitive,,,-0.005,0.009
+Building Quality,,,,
+Competitiveness,,,-0.141,0.016
+Potential Voters,,,0,0
